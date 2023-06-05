@@ -1,1 +1,1 @@
-# py-nova-ai
+# PyNovaAI
